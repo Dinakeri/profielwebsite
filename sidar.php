@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Sidar's pagina</title>
+    <title>Sidar's pagina.</title>
 </head>
 <body>
     <h1>Ik wil naar huis.</h1>
